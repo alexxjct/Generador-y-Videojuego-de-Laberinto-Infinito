@@ -1,7 +1,3 @@
-RouteLLM
-Routing to GPT-4.1
-¡Perfecto! Aquí tienes una descripción detallada para el README.md de tu repositorio del videojuego del laberinto, ideal para GitHub:
-
 Generador y Videojuego de Laberinto Infinito
 Descripción:
 Este proyecto es un videojuego interactivo que genera laberintos infinitos de manera aleatoria, permitiendo al usuario explorar y resolver cada uno de ellos. El objetivo principal es poner a prueba las habilidades de lógica y resolución de problemas del jugador, mientras se enfrenta a desafíos únicos en cada partida.
